@@ -2,4 +2,4 @@
 applications: 
 - name: compare-hello-java
   memory: 512M
-  path: compare.war
+  path: target/compare.war
