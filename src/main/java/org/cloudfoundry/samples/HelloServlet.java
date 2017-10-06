@@ -27,7 +27,7 @@ public class HelloServlet extends HttpServlet {
 			ip_addr = ssh_client_info.substring(portEnd + 1, dockerIPAddressEnd);
 		}
 
-		writer.println("Hello from Java Application !! ");
+		writer.println("Hello from NBCU !! ");
 		writer.close();
 	}
 }
