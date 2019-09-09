@@ -1,4 +1,4 @@
-Hello Java Sample - Test merge hubot
+Hello Java Sample - Test merge hubot 1
 =====================================
 
 This sample (originally based on the [SpringSource sample](https://github.com/SpringSource/cloudfoundry-samples/tree/master/hello-java)) aims to demonstrate the simplest possible Servlet-based Java webapp. Here we walk through the entire content of the application.
